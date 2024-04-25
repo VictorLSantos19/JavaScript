@@ -8,6 +8,13 @@ header {
     text-align: center;
 }
 
+
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
 section {
     background: white;
     border-radius: 10px;
@@ -17,9 +24,15 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
 }
 
+div {
+    text-align: center;
+    padding: 8px;
+}
+
 footer {
     color: white;
     text-align: center;
     font-style: italic;
 }
+
 
